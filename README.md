@@ -1,1 +1,1 @@
-# babearia-alura-2-luiz
+# Barbearia-2.0
